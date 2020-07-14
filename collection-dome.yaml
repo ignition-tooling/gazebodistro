@@ -59,3 +59,7 @@ repositories:
     type: git
     url: https://github.com/osrf/sdformat
     version: sdf9
+  testing:
+    type: git
+    url: https://github.com/ignitionrobotics/testing
+    version: master
